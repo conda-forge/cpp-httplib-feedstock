@@ -1,5 +1,5 @@
 context:
-  version: "0.43.1"
+  version: "0.43.2"
 
 package:
   name: cpp-httplib
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/yhirose/cpp-httplib/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 000832a5b50b67b82a77845c09d832f6e492011cd0ef1d4f72f808eb6a4fbeb3
+  sha256: c2aba52598df7b2169a0510497fdd95c843421040b0997db82fefa22f9d50a5b
 
 build:
   number: 0
